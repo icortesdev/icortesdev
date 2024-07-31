@@ -13,6 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/irian-cortes-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/irian-cortes-dev/" height="30" width="40" /></a>
 <a href="https://instagram.com/icortes94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="icortes94" height="30" width="40" /></a>
+  [![Corp Email](https://img.shields.io/badge/Corp%20Email-242938?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:icortesdev@proton.me)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
