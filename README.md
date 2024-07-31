@@ -23,6 +23,7 @@
 
 
 ![](https://img.shields.io/badge/Framework-REACT-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-NEXTJS-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 
 
 ![](https://img.shields.io/badge/DB-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
