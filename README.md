@@ -9,19 +9,13 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="190" src="https://i.pinimg.com/originals/21/9a/09/219a09d5c2d9e50e4c2d20c9a03e09af.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?perline=9&i=html,css,js,ts,react,next,astro,tailwindcss,git,figma">
+<div align="center">
+  <img src="https://skillicons.dev/icons?perline=9&i=html,css,js,ts,react,next,astro,tailwindcss,git">
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/irian-cortes-dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
