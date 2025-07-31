@@ -23,7 +23,7 @@
 
 ---
 
-### 🌐 Connect With Me
+###  Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/irian-cortes-dev/" target="_blank">
