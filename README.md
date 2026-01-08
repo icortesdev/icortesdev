@@ -1,14 +1,10 @@
-<img 
-  src="![alt text](.github/assets/banner.jpeg)"
+<h2 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">! I'm Irian Cortés</h2>
+
+<img
+  src=".github/assets/banner.jpeg"
   width="100%"
   alt="Profile banner"
 />
-
-<h2 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">! I'm Irian Cortés</h2>
-
-<p align="left">
-  I'm a passionate <strong>Frontend developer</strong> who enjoys building fast, responsive and accessible user interfaces using modern technologies like React, Next.js and Astro. I love clean code, intuitive design, and the challenge of turning ideas into seamless digital experiences.
-</p>
 
 ---
 
