@@ -1,3 +1,9 @@
+<img 
+  src="![alt text](.github/assets/banner.jpeg)"
+  width="100%"
+  alt="Profile banner"
+/>
+
 <h2 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">! I'm Irian Cortés</h2>
 
 <p align="left">
