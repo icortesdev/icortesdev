@@ -25,6 +25,9 @@
   <a href="mailto:icortesdev@proton.me" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=8B4DAB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Email logo" />
   </a>
+  <a href="https://www.icortes.dev/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=globe&label=&color=00A86B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio logo" />
+</a>
 </div>
 
 <div align="center">
