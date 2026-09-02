@@ -11,7 +11,7 @@
 ### Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?perline=9&i=html,css,js,ts,react,next,astro,tailwindcss,git" alt="tech stack icons" />
+  <img src="https://skillicons.dev/icons?perline=9&i=html,js,ts,react,next,astro,nest,tailwindcss,git" alt="tech stack icons" />
 </div>
 
 ---
