@@ -13,6 +13,10 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?perline=9&i=html,js,ts,react,next,astro,nest,tailwindcss,git" alt="tech stack icons" />
 </div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?perline=9&i=docker,vscode,figma,mongodb" alt="tech stack icons" />
+</div>
+
 
 ---
 
